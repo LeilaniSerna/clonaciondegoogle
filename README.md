@@ -28,4 +28,4 @@ Contiene las siguientes secciones:
 Aprender a utilizar las etiquetas estandar de HTML% y CSS3.
 
 ## 4. Link Demo
-Aqui puedes visualizar mi proyecto terminado: [clonacion de Google] (#)
+Aqui puedes visualizar mi proyecto terminado: [clonacion de Google] (https://steady-cassata-aee7a4.netlify.app/)
